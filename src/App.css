@@ -1,0 +1,22 @@
+.Heading , .login , .Homeheading{
+     text-align: center;
+     text-shadow: 1px 1px 0 red,0 0 3px black ;
+     
+     margin-bottom: 22px;
+}
+.requiredfield{
+  color: red;
+}
+.backbtn{
+ position: absolute;
+ right: 60px;
+ margin-top: 25px;
+}
+
+.resetpassword{
+  text-align: center;
+     text-shadow: 1px 1px 0 red,0 0 3px black ;
+     
+     margin-bottom: 22px;
+
+}
